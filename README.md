@@ -4,18 +4,18 @@ This is a solution to the GoMyCode Checkpoint on Data Structure and procedural p
 
 ## Solution
 
--- For problem 1 it's solved in script.js on the Data structure folder
--- while the problem 2 is solved on the script.js in src directory
+- For problem 1 it's solved in script.js on the Data structure folder
+- while the problem 2 is solved on the script.js in `src` directory
 
 ## Table of contents
 
 - [Question Overview](#Question-overview)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Tools Used](#Tools-Used)
+- [Built with](#built-with)
+- [What I learned](#what-i-learned)
+- [Tools Used](#Tools-Used)
 - [Author](#author)
 
-## Overview
+## Question Overview
 
 Description:
 
